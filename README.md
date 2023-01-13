@@ -1,0 +1,2 @@
+# chatAPT
+Alternative to chatGPT
